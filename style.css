@@ -1,0 +1,14 @@
+.jumbotron p{
+  display: inline-block;
+}
+
+.jumbotron p a {
+  margin-left: 15px;
+  background: #000;
+}
+
+
+.jumbotron p a:hover {
+  margin-left: 15px;
+  background: #004;
+}
